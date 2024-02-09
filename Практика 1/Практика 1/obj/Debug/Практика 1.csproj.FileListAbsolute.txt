@@ -1,0 +1,21 @@
+C:\Users\Никола\source\repos\Практика 1\Практика 1\obj\Debug\Практика 1.csproj.AssemblyReference.cache
+C:\Users\Никола\source\repos\Практика 1\Практика 1\obj\Debug\Page1.g.cs
+C:\Users\Никола\source\repos\Практика 1\Практика 1\obj\Debug\App.g.cs
+C:\Users\Никола\source\repos\Практика 1\Практика 1\obj\Debug\Практика 1_MarkupCompile.cache
+C:\Users\Никола\source\repos\Практика 1\Практика 1\obj\Debug\Практика 1_MarkupCompile.lref
+C:\Users\Никола\source\repos\Практика 1\Практика 1\obj\Debug\MainWindow.g.cs
+C:\Users\Никола\source\repos\Практика 1\Практика 1\obj\Debug\Page2.g.cs
+C:\Users\Никола\source\repos\Практика 1\Практика 1\obj\Debug\Page3.g.cs
+C:\Users\Никола\source\repos\Практика 1\Практика 1\bin\Debug\Практика 1.exe.config
+C:\Users\Никола\source\repos\Практика 1\Практика 1\bin\Debug\Практика 1.exe
+C:\Users\Никола\source\repos\Практика 1\Практика 1\bin\Debug\Практика 1.pdb
+C:\Users\Никола\source\repos\Практика 1\Практика 1\obj\Debug\MainWindow.baml
+C:\Users\Никола\source\repos\Практика 1\Практика 1\obj\Debug\Page1.baml
+C:\Users\Никола\source\repos\Практика 1\Практика 1\obj\Debug\Page2.baml
+C:\Users\Никола\source\repos\Практика 1\Практика 1\obj\Debug\Page3.baml
+C:\Users\Никола\source\repos\Практика 1\Практика 1\obj\Debug\Практика 1.g.resources
+C:\Users\Никола\source\repos\Практика 1\Практика 1\obj\Debug\Практика_1.Properties.Resources.resources
+C:\Users\Никола\source\repos\Практика 1\Практика 1\obj\Debug\Практика 1.csproj.GenerateResource.cache
+C:\Users\Никола\source\repos\Практика 1\Практика 1\obj\Debug\Практика 1.csproj.CoreCompileInputs.cache
+C:\Users\Никола\source\repos\Практика 1\Практика 1\obj\Debug\Практика 1.exe
+C:\Users\Никола\source\repos\Практика 1\Практика 1\obj\Debug\Практика 1.pdb
